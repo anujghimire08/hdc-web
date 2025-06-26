@@ -1,0 +1,22 @@
+*{
+  background-color: blue;
+}
+h1{
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+p{
+  background-color: lightpink;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+}
+.class{
+  font-weight: bold;
+  color: black;
+  text-align: center;
+}
+#id{
+  background-color: lightpink;
+}
